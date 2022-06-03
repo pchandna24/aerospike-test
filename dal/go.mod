@@ -1,4 +1,4 @@
-module datalayer
+module github.com/pchandna24/aerospike-test
 
 go 1.17
 
