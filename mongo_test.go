@@ -2,7 +2,7 @@ package main
 
 import (
 	"context"
-	"datalayer/db"
+	"github.com/pchandna24/aerospike-test/db"
 	"testing"
 
 	"go.mongodb.org/mongo-driver/bson"
